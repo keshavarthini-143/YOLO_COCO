@@ -228,3 +228,9 @@ torchvision
 torchaudio
 ```
 
+## Author
+KESHAVARTHINI B
+
+## License
+This project is for academic purposes.
+
