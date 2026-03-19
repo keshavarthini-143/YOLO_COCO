@@ -227,6 +227,4 @@ torch
 torchvision
 torchaudio
 ```
-```bash
-streamlit run app.py
-```
+
